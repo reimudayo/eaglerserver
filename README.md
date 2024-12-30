@@ -1,2 +1,2 @@
-# こんにちはーーーーーーーれいむでーす
+# こんにちは
 # my eaglercraft server
